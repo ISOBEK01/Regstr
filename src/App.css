@@ -1,0 +1,144 @@
+body{
+  background-color: rgb(215, 215, 215);
+}
+.box{
+  width: 550px;
+  height: 720px;
+  background-color: white;
+  margin-left: 160px;
+}
+.box img{
+  width: 30px;
+  height: 30px;
+  margin-top: 16px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+.box h2{
+  margin-left: 55px;
+  margin-top: -7px;
+  cursor: pointer;
+}
+.conatiner{
+  display: flex;
+}
+.h2{
+  margin-top: -32px;
+}
+.ce h1{
+  font-size: 34px;
+  font-weight: 400;
+  margin-top: 60px;
+}
+.ce p{
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 20px;
+  font-weight: 300;
+  margin-top: 15px;
+}
+.ce button{
+  width: 410px;
+  height: 45px;
+  background-color: transparent;
+  border: solid 2px black;
+  margin-left: 70px;
+  border-radius: 10px;
+  font-weight: 300;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.ce button:hover{
+  border: solid 2px red;
+  transition: .4s;
+}
+.ce img{
+  margin-top: -3px;
+  width: 22px;
+  margin-left: -30px;
+  height: 22px;
+}
+.hr hr{
+  width: 195px;
+  margin-top: 55px;
+  margin-left: 65px;
+}
+.hr1 hr{
+  width: 195px;
+  margin-top: -5px;
+  margin-left: 300px;
+  margin-top: -20px;
+}
+.ce h4{
+  font-weight: 300;
+  color: rgb(128, 128, 128);
+  font-size: 18px;
+  margin-top: -20px;
+  margin-left: 260px;
+}
+.hr1{
+  margin-top: 15px;
+  position: absolute;
+  margin-left: -15px;
+}
+.ce input{
+  width: 430px;
+  height: 30px;
+  border-top: black;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  font-size: 18px;
+  margin-top: 40px;
+}
+.in{
+  margin-left: 65px;
+  margin-top: 30px;
+}
+.in h2{
+  width: 166px;
+  font-size: 20px;
+  border-bottom: 1px black solid;
+  margin-left: 250px;
+  margin-top: -20px;
+}
+.bu button{
+  width: 410px;
+  height: 45px;
+  background-color: transparent;
+  border: solid 1px transparent;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 65px;
+  margin-top: 30px;
+}
+.bu button:hover{
+  background-color: transparent;
+  border: solid 1px black;
+  color: black;
+  transition: .5s;
+}
+.bu h3{
+  font-weight: 300;
+  color: rgb(72, 72, 72);
+  margin-left: 110px;
+  margin-top: 25px;
+}
+.bu span{
+  font-weight: 700;
+  color: black;
+}
+.i img{
+  width: 700px;
+  height: 720px;
+  border-radius: 20px 0px 0px 20px;
+  margin-left: 700px;
+  margin-top: -1000px;
+}
+.i{
+  margin-top: -15px;
+}
